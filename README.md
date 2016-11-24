@@ -1,4 +1,5 @@
 # Answers trail
-Doubts answered on web that I use in my daily life.
+Wiki with FAQ on web that I use in my daily life.
 
-[My wiki here](https://github.com/afialho/stackoverflow-help-docs/wiki/answers-trail)
+### Table of contents
+1. [How can I update nodeJS on Ubuntu?](https://github.com/afialho/stackoverflow-help-docs/wiki/answers-trail#update-nodejs-ubuntu)
