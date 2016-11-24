@@ -1,2 +1,4 @@
-# stackoverflow-help-docs
-Common and rare doubts answered at Stack Overflow that I use in my daily life
+# Answers trail
+Doubts answered on web that I use in my daily life.
+
+[Wiki](https://github.com/afialho/stackoverflow-help-docs/wiki/answers-trail)
